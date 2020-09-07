@@ -14,18 +14,18 @@ A joke. A *very* nerdy joke.
 
 ## Forrest, what happened?
 
-"I saw you doing math and was wondering if you're OK."
+- *"I saw you doing math and was wondering if you're OK."*
 - "Yeah, I'm studying to become a cartigrifur"
-"You mean a *cryptographer*?"
+- *"You mean a *cryptographer*?"*
 - "I'm pretty sure it's cartifrifear..."
-"Whatever. Why do you wanna be a cryptographer?"
+- *"Whatever. Why do you wanna be a cryptographer?"*
 - "Certififor! Idiot. I hit my head and now I'm smart."
-"You hit your head?"
+- *"You hit your head?"*
 - "Yeah, REALLY hard and now I'm smart!"
-"Ok... That definitely explains a few things..."
-"Even for you."
+- *"Ok... That definitely explains a few things..."*
+- *"Even for you."*
 - "Isn't it great?!"
-"Yeah... Ok"
+- *"Yeah... Ok"*
 
 ### Since Forrest Gump forgot how to multiply
 after hitting his head (wait... he used to *know* how to multiply?), he made this algorithm with only constant-time operations.
