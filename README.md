@@ -22,8 +22,7 @@ A joke. A *very* nerdy joke.
 - "Certififor! Idiot. I hit my head and now I'm smart."
 - *"You hit your head?"*
 - "Yeah, REALLY hard and now I'm smart!"
-- *"Ok... That definitely explains a few things..."*
-- *"Even for you."*
+- *"Ok... That definitely explains a few things... Even for you."*
 - "Isn't it great?!"
 - *"Yeah... Ok"*
 
